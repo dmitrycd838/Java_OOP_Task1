@@ -2,8 +2,8 @@ package Task1;
 
 public abstract class Product {
 
-    private String name;
-    private double volume;
+    protected String name;
+    protected double volume;
 
     public Product() {
     }
